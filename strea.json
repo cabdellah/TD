@@ -1,0 +1,16 @@
+[
+  {
+    "channel": "002RadioTV.do",
+    "url": "https://cdn.002radio.com:3909/live/radio002live.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "status": "online",
+    "width": 0,
+    "height": 0,
+    "bitrate": 0,
+    "frame_rate": 0,
+    "added_at": "2023-04-03T19:10:11Z",
+    "updated_at": "2023-04-20T00:11:10Z",
+    "checked_at": "2023-04-20T00:11:10Z"
+  }
+]
