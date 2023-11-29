@@ -12,7 +12,6 @@
     {"name":"Albania","code":"AL","languages":["sqi"],"flag":"🇦🇱"},
     {"name":"United States","code":"US","languages":["eng","spa"],"flag":"🇺🇸"},
     {"name":"Germany","code":"DE","languages":["deu"],"flag":"🇩🇪"},
-    {"name":"India","code":"IN","languages":["eng","hin","tam"],"flag":"🇮🇳"},
     {"name":"South Korea","code":"KR","languages":["kor"],"flag":"🇰🇷"},
     {"name":"Tunisia","code":"TN","languages":["ara"],"flag":"🇹🇳"},
     {"name":"Russia","code":"RU","languages":["rus"],"flag":"🇷🇺"},
