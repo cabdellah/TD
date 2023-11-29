@@ -28,33 +28,6 @@
     "logo": "https://i.imgur.com/SvjU4h6.png"
   },
   {
-    "id": "AlAqsaTV.ps",
-    "name": "Al-Aqsa TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Hamas"
-    ],
-    "country": "PS",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": [
-      "c/PS"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": "2006-01-09",
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "logo": "https://i.imgur.com/Z2rfrQ8.png"
-  },
-  {
     "id": "Alarabiya.ae",
     "name": "Alarabiya",
     "alt_names": [
@@ -81,33 +54,7 @@
     "website": "https://www.alarabiya.net/",
     "logo": "https://i.imgur.com/NXFkYFj.png"
   },
-  {
-    "id": "AlArabiyaBusiness.ae",
-    "name": "Al Arabiya Business",
-    "alt_names": [
-      "العربية أسواق"
-    ],
-    "network": null,
-    "owners": [],
-    "country": "AE",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": [
-      "c/AE"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "categories": [
-      "business"
-    ],
-    "is_nsfw": false,
-    "launched": "2023-10-27",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.alarabiya.net/aswaq",
-    "logo": "https://i.imgur.com/eEV4r6J.jpg"
-  },
+  
   {
     "id": "AlarabiyaPortrait.ae",
     "name": "Alarabiya Portrait",
