@@ -1,104 +1,5 @@
 [
   {
-    "id": "PeaceTVChinese.ae",
-    "name": "Peace TV Chinese",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AE",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": [
-      "c/AE"
-    ],
-    "languages": [
-      "zho"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": "2015-12-29",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://peacetv.tv/",
-    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg"
-  },
-  {
-    "id": "PeaceTVEnglish.ae",
-    "name": "Peace TV English",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AE",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": [
-      "r/INT"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://peacetv.tv/",
-    "logo": "https://i.imgur.com/rjgCM2B.png"
-  },
-  {
-    "id": "PeaceTVMiddleEast.ae",
-    "name": "Peace TV Middle East",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AE",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": [
-      "c/AE"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "categories": [],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://peacetv.tv/",
-    "logo": "https://i.imgur.com/xP8xp9P.png"
-  },
-  {
-    "id": "PeaceTVUrdu.ae",
-    "name": "Peace TV Urdu",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AE",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": [
-      "c/PK",
-      "c/IN"
-    ],
-    "languages": [
-      "urd"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://peacetv.tv/",
-    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
-  },
-  {
     "id": "SkyNewsArabia.ae",
     "name": "Sky News Arabia",
     "alt_names": [
@@ -125,5 +26,113 @@
     "replaced_by": null,
     "website": "https://www.skynewsarabia.com/",
     "logo": "https://i.imgur.com/SvjU4h6.png"
+  },
+  {
+    "id": "AlAqsaTV.ps",
+    "name": "Al-Aqsa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hamas"
+    ],
+    "country": "PS",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/PS"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": "2006-01-09",
+    "closed": null,
+    "replaced_by": null,
+    "website": null,
+    "logo": "https://i.imgur.com/Z2rfrQ8.png"
+  },
+  {
+    "id": "Alarabiya.ae",
+    "name": "Alarabiya",
+    "alt_names": [
+      "العربية"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "AE",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/AE"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.alarabiya.net/",
+    "logo": "https://i.imgur.com/NXFkYFj.png"
+  },
+  {
+    "id": "AlArabiyaBusiness.ae",
+    "name": "Al Arabiya Business",
+    "alt_names": [
+      "العربية أسواق"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "AE",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/AE"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "business"
+    ],
+    "is_nsfw": false,
+    "launched": "2023-10-27",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.alarabiya.net/aswaq",
+    "logo": "https://i.imgur.com/eEV4r6J.jpg"
+  },
+  {
+    "id": "AlarabiyaPortrait.ae",
+    "name": "Alarabiya Portrait",
+    "alt_names": [
+      "العربية عامودي"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "AE",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/AE"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.alarabiya.net",
+    "logo": "https://i.imgur.com/NXFkYFj.png"
   }
 ]
