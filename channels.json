@@ -1,5 +1,104 @@
 [
   {
+    "id": "PeaceTVChinese.ae",
+    "name": "Peace TV Chinese",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "AE",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/AE"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": "2015-12-29",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://peacetv.tv/",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg"
+  },
+  {
+    "id": "PeaceTVEnglish.ae",
+    "name": "Peace TV English",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "AE",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "r/INT"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://peacetv.tv/",
+    "logo": "https://i.imgur.com/rjgCM2B.png"
+  },
+  {
+    "id": "PeaceTVMiddleEast.ae",
+    "name": "Peace TV Middle East",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "AE",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/AE"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://peacetv.tv/",
+    "logo": "https://i.imgur.com/xP8xp9P.png"
+  },
+  {
+    "id": "PeaceTVUrdu.ae",
+    "name": "Peace TV Urdu",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "AE",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/PK",
+      "c/IN"
+    ],
+    "languages": [
+      "urd"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://peacetv.tv/",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
+  },
+  {
     "id": "SkyNewsArabia.ae",
     "name": "Sky News Arabia",
     "alt_names": [
