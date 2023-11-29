@@ -53,33 +53,5 @@
     "replaced_by": null,
     "website": "https://www.alarabiya.net/",
     "logo": "https://i.imgur.com/NXFkYFj.png"
-  },
-  
-  {
-    "id": "AlarabiyaPortrait.ae",
-    "name": "Alarabiya Portrait",
-    "alt_names": [
-      "العربية عامودي"
-    ],
-    "network": null,
-    "owners": [],
-    "country": "AE",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": [
-      "c/AE"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.alarabiya.net",
-    "logo": "https://i.imgur.com/NXFkYFj.png"
   }
 ]
