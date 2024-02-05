@@ -6,7 +6,520 @@
     "languages": ["ara", "fra"],
     "categories": ["general"],
     "logo": "https://i.imgur.com/MvpntzA.png",
-    "channel": "3sport.ma",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+  },
+  {
+    "id": "2MInternational.ma",
+    "logo": "https://i.imgur.com/MvpntzA.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "2M International",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+  },
+  {
+    "id": "ABNAfrica.us",
+    "logo": "https://i.imgur.com/1S4Y4xC.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Religious"],
+    "name": "ABN Africa",
+    "url": "https://rtmp2.abnvideos.com/hls/abnafrica.m3u8"
+  },
+
+  {
+    "id": "AbuDhabiSports1.ae",
+    "logo": "https://i.imgur.com/6BVWk8z.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Sports"],
+    "name": "Abu Dhabi Sports 1 (1080p)",
+    "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+  },
+  {
+    "id": "AfricanewsEnglish.cg",
+    "logo": "https://i.imgur.com/5UxU4zc.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Africanews",
+    "url": "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+  },
+  {
+    "id": "AfricanewsFrench.cg",
+    "logo": "https://i.imgur.com/5UxU4zc.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "AfricaNews Français (720p)",
+    "url": "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8"
+  },
+  {
+    "id": "AlHayatTV.us",
+    "logo": "https://i.imgur.com/M8ZuzeB.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Religious"],
+    "name": "Al Hayat TV (720p)",
+    "url": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8"
+  },
+  {
+    "id": "AlJazeera.qa",
+    "logo": "https://i.imgur.com/7bRVpnu.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Al Jazeera Arabic (1080p)",
+    "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"
+  },
+  {
+    "id": "AlJazeeraDocumentary.qa",
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Al Jazeera Documentary (270p) [Geo-blocked]",
+    "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8"
+  },
+  {
+    "id": "AlJazeeraMubasher.qa",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Al Jazeera Mubasher (1080p)",
+    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
+  },
+  {
+    "id": "AlQamarTV.ae",
+    "logo": "https://i.imgur.com/zkBT0C8.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Al Qamar TV (360p)",
+    "url": "https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8"
+  },
+  {
+    "id": "AlArabyTV2.uk",
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Alaraby 2 TV (1080p)",
+    "url": "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
+  },
+  {
+    "id": "AlArabyTV.uk",
+    "logo": "https://i.imgur.com/YMqWEe4.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Alaraby TV (1080p)",
+    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"
+  },
+  {
+    "id": "AngelTVAfrica.in",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Religious"],
+    "name": "Angel TV Africa (720p)",
+    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8"
+  },
+  {
+    "id": "AngelTVArabia.in",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Religious"],
+    "name": "Angel TV Arabia (720p)",
+    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8"
+  },
+  {
+    "id": "BBCArabic.uk",
+    "logo": "https://i.imgur.com/ScyTG6P.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "BBC Arabic (720p)",
+    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "BblackAfrica.fr",
+    "logo": "https://i.imgur.com/s1kLdBG.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Bblack! Africa",
+    "url": "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"
+  },
+  {
+    "id": "BloombergTVEMEALiveEvent.uk",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Business"],
+    "name": "Bloomberg TV EMEA Live Event (720p)",
+    "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+  },
+  {
+    "id": "TV2.dz",
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Canal Algérie (480p)",
+    "url": "https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8"
+  },
+  {
+    "id": "CartoonNetworkArabic.ae",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Animation;Kids"],
+    "name": "Cartoon Network Arabia (1080p)",
+    "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
+  },
+  {
+    "id": "CGTNArabic.cn",
+    "logo": "https://i.imgur.com/AkFFrS7.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "CGTN Arabic (576p) [Not 24/7]",
+    "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8"
+  },
+  {
+    "id": "CNA.dz",
+    "logo": "https://i.imgur.com/MbGX0ST.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Religious"],
+    "name": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
+  },
+  {
+    "id": "CNBCAfrica.za",
+    "logo": "https://i.imgur.com/BnNYzWI.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Business"],
+    "name": "CNBC Africa (720p) [Not 24/7]",
+    "url": "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8"
+  },
+  {
+    "id": "CNBCArabiya.ae",
+    "logo": "https://i.imgur.com/opBXx1K.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Business"],
+    "name": "CNBC Arabia (1080p)",
+    "url": "https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8"
+  },
+  {
+    "id": "DubaiOne.ae",
+    "logo": "https://i.imgur.com/Dj16oKL.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "Dubai One (1080p)",
+    "url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
+  },
+  {
+    "id": "DWArabic.de",
+    "logo": "https://i.imgur.com/EfKe3ae.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "DW Arabic (1080p)",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
+  },
+  {
+    "id": "EchoroukNews.dz",
+    "logo": "https://i.imgur.com/TNtjYcw.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Echorouk News (576p) [Not 24/7]",
+    "url": "https://bledflix-echorouk-news.b-cdn.net/master.m3u8"
+  },
+  {
+    "id": "EchoroukTV.dz",
+    "logo": "https://i.imgur.com/FtrSAqu.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Echorouk TV (576p) [Not 24/7]",
+    "url": "https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8"
+  },
+  {
+    "id": "ElBilad.dz",
+    "logo": "https://i.imgur.com/khppaWF.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "El Bilad (576p) [Not 24/7]",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8"
+  },
+  {
+    "id": "EnnaharTV.dz",
+    "logo": "https://i.imgur.com/C0TCA1s.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Ennahar TV (576p) [Not 24/7] [Geo-blocked]",
+    "url": "https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8"
+  },
+  {
+    "id": "EssaidaTV.tn",
+    "logo": "https://www.essaidafm.com/images/radio/logo_ar.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Culture"],
+    "name": "Essaida TV",
+    "url": "https://essaidatv.dextream.com/hls/stream/index.m3u8"
+  },
+  {
+    "id": "EWTNAfricaAsia.us",
+    "logo": "https://i.imgur.com/F8ZM25a.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "EWTN Africa Asia (720p)",
+    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
+  },
+  {
+    "id": "France24Arabic.fr",
+    "logo": "https://i.imgur.com/o1Vz78r.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "France 24 Arabic (1080p)",
+    "url": "https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8"
+  },
+  {
+    "id": "GODTVAfrica.za",
+    "logo": "https://i.imgur.com/hW4g2oe.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Religious"],
+    "name": "GOD TV Africa (576p)",
+    "url": "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8"
+  },
+  {
+    "id": "MBC1.ae",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "MBC 1 (1080p)",
+    "url": "https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
+  },
+  {
+    "id": "MBC3.ae",
+    "logo": "https://i.imgur.com/PVt8OPN.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Kids"],
+    "name": "MBC 3 EUR (1080p)",
+    "url": "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8"
+  },
+  {
+    "id": "MBC4.ae",
+    "logo": "https://i.imgur.com/BcXASJp.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "MBC 4 (1080p)",
+    "url": "https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"
+  },
+  {
+    "id": "MBCBollywood.ae",
+    "logo": "https://i.imgur.com/TTAGFHG.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "MBC Bollywood (1080p) [Geo-blocked]",
+    "url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+  },
+  {
+    "id": "MBCDrama.ae",
+    "logo": "https://i.imgur.com/g5PWnqp.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "MBC Drama KSA (1080p)",
+    "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
+  },
+  {
+    "id": "MBCFM.ae",
+    "logo": "https://i.imgur.com/lF8UxvR.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "MBC FM (1080p)",
+    "url": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8"
+  },
+  {
+    "id": "MBCPlusDrama.ae",
+    "logo": "https://i.imgur.com/lxWdjXG.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Movies"],
+    "name": "MBC Plus Drama (1080p)",
+    "url": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"
+  },
+  {
+    "id": "NationalGeographicAbuDhabi.ae",
+    "logo": "https://i.imgur.com/fNA00VF.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Documentary"],
+    "name": "National Geographic Abu Dhabi (1080p) [Geo-blocked]",
+    "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+  },
+  {
+    "id": "PMC.ae",
+    "logo": "https://i.imgur.com/AbrHI7K.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Music"],
+    "name": "PMC (1080p)",
+    "url": "https://hls.pmchd.live/hls/stream.m3u8"
+  },
+  {
+    "id": "PMCRoyale.ae",
+    "logo": "https://i.imgur.com/kuYMKgG.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Music"],
+    "name": "PMC Royale (720p) [Not 24/7]",
+    "url": "https://rohls.pmc.live/hls/stream.m3u8"
+  },
+  {
+    "id": "QwestTV.fr",
+    "logo": "https://i.imgur.com/DjgNNHK.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Music"],
+    "name": "QwestTV",
+    "url": "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8"
+  },
+  {
+    "id": "RefletTV.ci",
+    "logo": "https://i.imgur.com/EauXR22.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "REFLET TV (1080p)",
+    "url": "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8"
+  },
+  {
+    "id": "RomanzaPlusAfrica.ke",
+    "logo": "https://i.imgur.com/HYg75w2.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Romanza+ Africa (720p)",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"
+  },
+  {
+    "id": "RTArabic.ru",
+    "logo": "https://i.imgur.com/G8vGrn1.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "RT Arabic (1080p) [Geo-blocked]",
+    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
+  },
+  {
+    "id": "RTPAfrica.pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/512px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "RTP África (504p) [Not 24/7]",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8"
+  },
+  {
+    "id": "SamiraTV.dz",
+    "logo": "https://i.imgur.com/XZzINfq.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Samira TV (576p)",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8"
+  },
+  {
+    "id": "SkyNewsArabia.ae",
+    "logo": "https://i.imgur.com/SvjU4h6.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Sky News Arabia (1080p) [Not 24/7]",
+    "url": "https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8"
+  },
+  {
+    "id": "SkyNewsArabiaVertical.ae",
+    "logo": "https://i.imgur.com/FjtzQQs.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "Sky News Arabia (Portrait) (1280p) [Not 24/7]",
+    "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
+  },
+  {
+    "id": "TBNAfrica.za",
+    "logo": "https://i.imgur.com/6VjLFmR.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "TBN Africa (1080p)",
+    "url": "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8"
+  },
+  {
+    "id": "Tele7.es",
+    "logo": "https://i.imgur.com/JcuV9ZE.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Undefined"],
+    "name": "Tele 7 (720p)",
+    "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8"
+  },
+  {
+    "id": "TRTArabi.tr",
+    "logo": "https://i.imgur.com/dEfI2M9.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["News"],
+    "name": "TRT Arabi (1080p) [Not 24/7]",
+    "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": "TV5MondeMaghrebOrient.fr",
+    "logo": "https://i.imgur.com/tqz4M37.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "TV5Monde Maghreb-Orient (1080p) [Geo-blocked]",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8"
+  },
+  {
+    "id": "TVIAfrica.pt",
+    "logo": "https://i.ibb.co/vBbSHB4/Tvi-africa.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["General"],
+    "name": "TVI África (480p) [Geo-blocked]",
+    "url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
+  },
+  {
+    "id": "Wanasah.ae",
+    "logo": "https://i.imgur.com/nLtiXNf.png",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["Music"],
+    "name": "Wanasah (1080p)",
+    "url": "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8"
   }
 ]
