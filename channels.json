@@ -1,21 +1,20 @@
 [
   {
-    "id": "2MInternational.ma",
-    "name": "2M International",
-    "alt_names": ["2M Monde"],
-    "network": "2M",
-    "owners": [],
+    "id": "3sport.ma",
+    "name": "الرياضية",
     "country": "MA",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": ["r/ARAB"],
     "languages": ["ara", "fra"],
     "categories": ["general"],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://2m.ma/",
+    "logo": "https://i.imgur.com/MvpntzA.png",
+    "channel": "3sport.ma",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+  },
+  {
+    "id": "2MInternational.ma",
+    "name": "2M International",
+    "country": "MA",
+    "languages": ["ara", "fra"],
+    "categories": ["general"],
     "logo": "https://i.imgur.com/MvpntzA.png"
   },
   {
