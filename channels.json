@@ -8,32 +8,5 @@
     "logo": "https://i.imgur.com/MvpntzA.png",
     "channel": "3sport.ma",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
-  },
-  {
-    "id": "2MInternational.ma",
-    "name": "2M International",
-    "country": "MA",
-    "languages": ["ara", "fra"],
-    "categories": ["general"],
-    "logo": "https://i.imgur.com/MvpntzA.png"
-  },
-  {
-    "id": "NationalGeographicAbuDhabi.ae",
-    "name": "National Geographic Abu Dhabi",
-    "alt_names": [],
-    "network": null,
-    "owners": ["National Geographic Society", "Abu Dhabi Media Company"],
-    "country": "AE",
-    "subdivision": null,
-    "city": null,
-    "broadcast_area": ["r/ARAB"],
-    "languages": ["ara"],
-    "categories": ["documentary"],
-    "is_nsfw": false,
-    "launched": "2009-07-01",
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://www.natgeotv.ae/",
-    "logo": "https://i.imgur.com/fNA00VF.png"
   }
 ]
