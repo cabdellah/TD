@@ -1,21 +1,14 @@
 [
   {
-    "channel": "",
-    "url": "http://ott-cdn.ucom.am/s3/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "SamiakiTV.gr",
-    "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+    "channel": "2MInternational.ma",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
   },
   {
-    "channel": "SamiraTV.dz",
-    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8",
+    "channel": "NationalGeographicAbuDhabi.ae",
+    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
